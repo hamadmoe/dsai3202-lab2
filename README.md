@@ -118,14 +118,3 @@ Using **Azure Data Factory**, we built a Mapping Data Flow to automate the conve
 * 
 **Trigger:** Scheduled the pipeline to run on a daily recurrence, demonstrating how the system would handle new data arrivals in a production environment. 
 
-
-
----
-
-## Conclusion
-
-This lab successfully demonstrates a complete ingestion cycle. The final output in the `processed/reviews` container consists of Parquet files organized by year (1999–2014), significantly reducing data latency and storage costs for future analytics. 
-
----
-
-Would you like me to help you format a specific section for your GitHub repository's "Screenshots" or "Usage" instructions?
